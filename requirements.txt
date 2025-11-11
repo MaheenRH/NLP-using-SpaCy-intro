@@ -1,0 +1,7 @@
+spacy
+jupyter
+notebook
+pandas         
+matplotlib      
+seaborn         
+textblob       
