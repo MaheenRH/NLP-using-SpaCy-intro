@@ -38,8 +38,3 @@ This explanation is meant for learners exploring how spaCy processes text at mul
 By the end, you’ll understand how NLP pipelines are structured and how to use them for downstream ML tasks like sentiment analysis or text classification.
 
 ---
-
-## 📁 Repository Structure
-
-
-[![NLP Demo Video]https://www.youtube.com/watch?v=GM78lz0jn9Y
