@@ -7,7 +7,7 @@ The session walks through practical examples of text processing, linguistic anal
 
 ## 🎬 Watch the Full Explanation
 
-[![NLP Demo Video]https://www.youtube.com/watch?v=GM78lz0jn9Y
+https://www.youtube.com/watch?v=GM78lz0jn9Y
 
 > 🎥 Click the thumbnail to watch my walkthrough on YouTube.
 
